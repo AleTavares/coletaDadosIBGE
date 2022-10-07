@@ -1,0 +1,3 @@
+sidrapy
+google-cloud
+google-cloud-bigquery
