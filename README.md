@@ -16,4 +16,4 @@ Referências que utilizei para construir o código:
 > ``` pip install -r requirements.txt ```
 > 
 
-**OBS:** Deixarei os códigos disponiveis em notebooks para estudo e na pasta prg esara disponivel um código funcional {: .note}
+**OBS:** Deixarei os códigos disponiveis em notebooks para estudo e na pasta prg esara disponivel um código funcional
