@@ -1,3 +1,4 @@
 sidrapy
 google-cloud
-google-cloud-bigquery
+pandas_gbq
+python-pptx
