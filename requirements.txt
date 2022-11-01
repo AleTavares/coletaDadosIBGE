@@ -1,4 +1,6 @@
 sidrapy
 google-cloud
 pandas_gbq
+XlsxWriter
 python-pptx
+pytelegrambotapi
